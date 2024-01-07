@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "wonda template"
+version = "0.6.9"
+description = "Template for bots on wonda framework, which will simplify the task of creating the structure of the project."
+authors = ["vladislavkovalskyi <v.darknesssb@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+wonda = "^0.6.9"
+vbml = "^1.1.post1"
+tortoise-orm = "^0.20.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
