@@ -1,4 +1,4 @@
-BOT_TOKEN = "6960504116:AAGGhMLI9xhSHjg288G66oA9uvEVbpy75-U"
+BOT_TOKEN = ""
 OWNER_ID = 0
 
 DATABASE_URL = "sqlite://database.sqlite3"
